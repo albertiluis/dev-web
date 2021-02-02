@@ -1,3 +1,3 @@
 # dev-web
 projetos  HTML, CSS, JavaScript.
-criados ou de aulas que serviram para aprendizagem
+Projetos criados ou de cursos que serviram para aprendizado
